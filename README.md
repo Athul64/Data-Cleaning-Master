@@ -31,8 +31,8 @@ Ensure you have Python 3.8+ installed.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Athul64/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/Athul64/Data-Cleaning-Master.git
+   cd Data-Cleaning-Master
    ```
 
 2. Install the required dependencies:
